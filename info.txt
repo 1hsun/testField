@@ -1,0 +1,5 @@
+git init		//版控起始
+git .			//加入暫存
+git commit -m "message" //提交版本至local repo
+git push 		//push至遠端
+
