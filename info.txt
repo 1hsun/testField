@@ -1,5 +1,5 @@
-git init		//ª©±±°_©l
-git add .		//¥[¤J¼È¦s
-git commit -m "message" //´£¥æª©¥»¦Ülocal repo
-git push 		//push¦Ü»·ºİ
+ï»¿git init		//ç‰ˆæ§èµ·å§‹
+git add .		//åŠ å…¥æš«å­˜
+git commit -m "message" //æäº¤ç‰ˆæœ¬è‡³local repo
+git push 		//pushè‡³é ç«¯
 
