@@ -9,7 +9,7 @@ function phoneNum(data){
 		return "No Good :("
 }
 function nameCk(data){
-	//初字大寫
+	//初字大寫，添加空白
 	if(data.match(/(^[A-Z]{1}\w+\s[A-Z]{1}\w+)$/))
 		return "all due :)"
 	else
