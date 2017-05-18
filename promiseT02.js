@@ -23,7 +23,7 @@ function finalTask() {
 var promise = Promise.resolve();
 promise
     .then(taskA)
-    .then(taskB)
-	.then(taskA)
+    .then(taskB
+    .then(taskA)
     .catch(onRejected)
     .then(finalTask);
